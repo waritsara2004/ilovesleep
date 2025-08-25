@@ -1,2 +1,4 @@
 name: waritsara saehan
 nickname: warit
+age: 20
+#my profile
